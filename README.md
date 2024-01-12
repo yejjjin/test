@@ -25,3 +25,5 @@ yejjjin: 9차 수정 feature 1
 yejjjin: 10차 수정 feature 2
 
 yejjjin: 11차 수정 feature merge
+
+jvv00 : 12차 수정 f2
